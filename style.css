@@ -1,0 +1,23 @@
+#wrap{
+    position: absolute;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    transform: translate(50%,50%);
+  }
+   img {
+      width: 30%;
+      float: left;
+  }
+   #text {
+    width: 50%;
+    float: left;
+    padding-left: 10%;
+  }
+   p {
+    font-family: 'Roboto', sans-serif;
+    line-height: 200%;
+  }
+   h1 {
+    font-family: 'Open Sans', sans-serif;
+  }
